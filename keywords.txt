@@ -1,0 +1,15 @@
+#######################################
+# Syntax Coloring Map For Adafruit_NeoPixel
+####################################### 
+# Class
+#######################################
+ShortAndLongPress KEYWORD
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+setOnButtonDown KEYWORD2
+setOnShortPress KEYWORD2
+setOnLongPress KEYWORD2
+
