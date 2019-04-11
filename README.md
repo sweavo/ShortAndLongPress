@@ -1,4 +1,4 @@
-# ShortAndLonPress
+# ShortAndLongPress
 
 Arduino library to handle a button and call back when it's pushed, when it's released before
 timeout, and when it's held beyond the timeout.
